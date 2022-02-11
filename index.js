@@ -45,3 +45,5 @@ const fareTripler = createFareMultiplier(3);
 function selectDifferentDrivers (drivers, driverOption){
     return driverOption(drivers);
 }
+
+console.log("TEST TEST TEST");
